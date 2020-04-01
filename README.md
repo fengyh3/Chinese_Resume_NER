@@ -2,7 +2,7 @@
 Using HMM,CRF,LSTM,LSTM+CRF to achieve the goal of name entity recognition.
 Environment: python3 + tensorflow 1.4+
 Refer to [this github](https://github.com/luopeixiang/named_entity_recognition)
-Dataset is ACL 2018[Chinese NER using Lattice LSTM](https://github.com/jiesutd/LatticeLSTM)
+Dataset is published by ACL 2018 [Chinese NER using Lattice LSTM](https://github.com/jiesutd/LatticeLSTM)
 
 This project don't contain the model saver, and the evaluation is about precision, recall and F1 of token pair, not about word, so you can complete these parts.
 The result of this project:
