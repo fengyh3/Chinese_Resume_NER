@@ -9,7 +9,7 @@ Dataset is published by ACL 2018 [Chinese NER using Lattice LSTM](https://github
 
 This project don't contain the model saver, and the evaluation is about precision, recall and F1 of token pair, not about word, so you can complete these parts.
 The result of this project:
-|      | HMM    | CRF    | BiLSTM | BiLSTM+CRF | RoBERTa |
+|      | HMM    | CRF    | BiLSTM | BiLSTM+CRF | RoBERTa_small |
 | ---- | ------ | ------ | ------ | ---------- |---------|
 | recall  | 90.93% | 94.78% | 93.96% | 95.39%     | 96.34% |
 | precision  | 93.13% | 96.51% | 96.41% | 96.61%  | 100% |
