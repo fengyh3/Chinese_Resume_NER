@@ -1,8 +1,8 @@
 # Chinese_Resume_NER
 Using HMM,CRF,LSTM,LSTM+CRF to achieve the goal of name entity recognition.
 
-Environment: 
-python3.6 
+Environment:  
+python3.6  
 tensorflow 1.12+
 
 Refer to [this github](https://github.com/luopeixiang/named_entity_recognition)
